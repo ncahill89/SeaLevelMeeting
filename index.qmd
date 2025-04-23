@@ -1,0 +1,16 @@
+---
+title: "8th Annual Irish Sea Level Meeting"
+format:
+  html:
+    link-external-icon: true
+    link-external-newwindow: true
+---
+
+Welcome!
+
+Contact: Niamh Cahill (niamh.cahill\@mu.ie)
+
+## Schedule
+
+[Day 1](https://ncahill89.github.io/SeaLevelMeeting/MeetingSchedule.html)
+

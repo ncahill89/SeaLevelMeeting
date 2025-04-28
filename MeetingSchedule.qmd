@@ -3,20 +3,18 @@ title: "8th Annual Irish Sea Level Meeting"
 format: html
 ---
 
-## 📅 Meeting Schedule (20-Minute Talk, 5-Minute for Q&A)
+## 📅 Meeting Schedule Day 1 (20-Minute Talk, 5-Minute for Q&A)
 
----
 
 ### 🔹 Morning Session  
 **Chair: Niamh Cahill**
 
 | Time           | Speaker      | Talk Title                  |
 |----------------|--------------|-----------------------------|
-| 9:45 – 10:00   | Host/Chair   | Welcome and Opening Remarks |
-| 10:00 – 10:25  | NG Shiyi Trina    | Title of Talk 1             |
-| 10:25 – 10:50  | Cari Ballesteros Martinez   | A global analysis on coastal migration due to sea-level rise             |
+| 10:00 – 10:25   | Host/Chair   | Welcome and Opening Remarks |
+| 10:25 – 10:50   | NG Shiyi Trina    | Near-term sea-level projections for Southeast Asia             |
+| 10:50 – 11:15  | Cari Ballesteros Martinez   | A global analysis on coastal migration due to sea-level rise             |
 | 10:50 – 11:15  | Emmanuel Eresanya   | Association between AMOC weakening and dynamic sea level in CMIP6 and observation dataset            |
-| 11:15 – 11:40  | Speaker 4    | Title of Talk 4             |
 
 **☕ Coffee Break – 11:40 to 12:00**
 
@@ -24,7 +22,7 @@ format: html
 |----------------|--------------|-----------------------------|
 | 12:00 – 12:25  | Gerard McCarthy   | Regionalisation of sea level indicators and relevance for Ireland           |
 | 12:25 – 12:50  | Patrick McLoughlin    | Exploring Mean Sea Level Change Around Ireland            |
-| 12:50 – 1:15   | Robin Edwards   | Title of Talk 7             |
+| 12:50 – 1:15   | Robin Edwards   | Wrestling sea level data from Irish mud: is it too mucky for modellers to touch?            |
 
 
 
@@ -38,9 +36,9 @@ Enjoy a break and refreshments with fellow attendees.
 
 | Time           | Speaker      | Talk Title                  |
 |----------------|--------------|-----------------------------|
-| 2:15 – 2:40    |  Tido Semmler  | Local sea level rise and storm surges around Ireland: Coastal climate modelling plans at Met Éireann           |
-| 2:40 – 3:05    | Fernando Mayer   | Title of Talk 9             |
-| 3:05 – 3:30    | Speaker 10   | Title of Talk 10            |
+| 2:15 – 2:40    |Tido Semmler  | Local sea level rise and storm surges around Ireland: Coastal climate modelling plans at Met Éireann           |
+| 2:40 – 3:05    | Fernando Mayer   | A Bayesian Hierarchical Spatio-Temporal Model for Extreme Sea-Level Prediction in Ireland       |
+| 3:05 – 3:30    | Indiana Olbert  | Storm Éowyn: What Can be Learned from Irish Tidal Gauges           |
 
 **☕ Coffee Break – 3:30 to 3:50**
 

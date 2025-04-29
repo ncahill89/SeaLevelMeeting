@@ -49,3 +49,17 @@ Enjoy a break and refreshments with fellow attendees.
 | 4:40 – 5:05    | Speaker 13   | Title of Talk 13            |
 
 
+## 📅 Meeting Schedule Day 2
+
+### Workshop Schedule
+
+| Time            | Session              | Presenter         | Required Materials              |
+|-----------------|-----------------------|-------------------|----------------------------------|
+| 10:00 – 11:00   | Tides and sea level     | Patrick MC Loughlin      | Set up a WebPlotDigitizer account beforehand (https://automeris.io/wpd/), access to excel |
+| 11:30 – 11:45   | ☕ Coffee Break         |                   |                                  |
+| 11:45 – 1:15    | Workshop Session 2    | Presenter 2       | Handouts, Calculator            |
+| 1:15 – 2:15     | 🍽️ Lunch Break         |                   |                                  |
+| 2:15 – 3:45     | Workshop Session 3    | Presenter 3       | Notebook, Pens                  |
+| 3:45 – 4:00     | ☕ Coffee Break         |                   |                                  |
+| 4:00 – 5:30     | Workshop Session 4    | Presenter 4       | Sample Data, Spreadsheet Access |
+

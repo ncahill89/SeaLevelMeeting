@@ -10,7 +10,7 @@ format: html
 
 | Time            | Session              | Presenter         | Required Materials              |
 |-----------------|-----------------------|-------------------|----------------------------------|
-| 10:00 – 11:30   | Workshop Session 1    | Presenter 1       | Laptop, Pre-installed Software  |
+| 10:00 – 11:00   | Tides and sea level     | Patrick MC Loughlin      | Set up a WebPlotDigitizer account beforehand (https://automeris.io/wpd/), access to excel |
 | 11:30 – 11:45   | ☕ Coffee Break         |                   |                                  |
 | 11:45 – 1:15    | Workshop Session 2    | Presenter 2       | Handouts, Calculator            |
 | 1:15 – 2:15     | 🍽️ Lunch Break         |                   |                                  |

@@ -15,4 +15,4 @@ Contact: Niamh Cahill (niamh.cahill\@mu.ie)
 [Day 1](https://ncahill89.github.io/SeaLevelMeeting/MeetingSchedule.html)
 
 
-[Day 2](https://ncahill89.github.io/SeaLevelMeeting/MeetingScheduleDay2.html)
+[Day 2](https://ncahill89.github.io/SeaLevelMeeting/MeetingSchedule_Day2.html)

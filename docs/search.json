@@ -102,6 +102,6 @@
     "href": "index.html#day-2-workshop-schedule",
     "title": "🌊 8th Annual Irish Sea Level Meeting",
     "section": "📅 Day 2 – Workshop Schedule",
-    "text": "📅 Day 2 – Workshop Schedule\n\nHands-on Training Sessions\n\n\n\nTime\nWorkshop\nPresenter\nRequired Resources\n\n\n\n\n10:00 – 10:30\nGLOSS Updates\nGlenn Nolan\nNone\n\n\n10:30 – 11:30\nTides and Sea Level\nPatrick McLoughlin\nWebPlotDigitizer, Excel\n\n\n11:30 – 11:45\n☕ Coffee Break\n\n\n\n\n11:45 – 1:15\nReslr Tools in R\nMaeve Upton\nR, RStudio reslr package\n\n\n1:15 – 2:15\n🍽️ Lunch Break\n\n\n\n\n2:15 – 3:45\nGESLAR & Extremes Analysis\nFernando Mayer\nR, RStudio"
+    "text": "📅 Day 2 – Workshop Schedule\n\nHands-on Training Sessions\n\n\n\nTime\nWorkshop\nPresenter\nRequired Resources\n\n\n\n\n10:00 – 10:30\nGLOSS Updates\nGlenn Nolan\nNone\n\n\n10:30 – 11:30\nTides and Sea Level\nPatrick McLoughlin\nWebPlotDigitizer, Excel\n\n\n11:30 – 11:45\n☕ Coffee Break\n\n\n\n\n11:45 – 1:15\nreslr: An R package for relative sea level modelling\nMaeve Upton\nR, RStudio reslr package\n\n\n1:15 – 2:15\n🍽️ Lunch Break\n\n\n\n\n2:15 – 3:45\ngeslaR & Extremes Analysis in R\nFernando Mayer\nR, RStudio geslaR package"
   }
 ]

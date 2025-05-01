@@ -78,8 +78,9 @@ Enjoy a break and refreshments with fellow attendees.
 | Time           | Speaker            | Talk Title                                                                 |
 |----------------|--------------------|----------------------------------------------------------------------------|
 | 3:50 – 4:15    | Khurram Riaz       | Real-time Coastline Data via Remote Sensing and Citizen Science           |
-| 4:15 – 4:40    | Darshana Jayakumari| Comparative analysis of extreme value methods on 80 years of rainfall data|
-| 4:40 – 5:05    | Abbie Nugent         | TBC                                                        |
+| 4:15 – 4:40    | Abbie Nugent         | Integrating upper beach morphodynamics into future storm risk: A storyline approach under sea level rise|
+| 4:40 – 5:05    | Darshana Jayakumari| Comparative analysis of extreme value methods on 80 years of rainfall data|
+
 
 ---
 
@@ -89,7 +90,7 @@ Enjoy a break and refreshments with fellow attendees.
 
 | Time            | Workshop                   | Presenter            | Required Resources                                                                    |
 |-----------------|----------------------------|----------------------|----------------------------------------------------------------------------------------|
-| 10:00 – 10:30   | GLOSS Overview             | Glenn Nolan          | None                                                                                   |
+| 10:00 – 10:30   | GLOSS Updates             | Glenn Nolan          | None                                                                                   |
 | 10:30 – 11:30   | Tides and Sea Level        | Patrick McLoughlin   | [WebPlotDigitizer](https://automeris.io/wpd/), Excel                                  |
 | 11:30 – 11:45   | ☕ Coffee Break             |                      |                                                                                        |
 | 11:45 – 1:15    | Reslr Tools in R           | Maeve Upton          | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [reslr package](https://maeveupton.github.io/reslr/)|

@@ -47,8 +47,8 @@ To help us plan for catering — and to receive updates —
 | Time           | Speaker                      | Talk Title                                                                 |
 |----------------|------------------------------|----------------------------------------------------------------------------|
 | 10:00 – 10:25  | Host/Chair                   | Welcome and Opening Remarks                                                |
-| 10:25 – 10:50  | NG Shiyi Trina               | Near-term sea-level projections for Southeast Asia                         |
-| 10:50 – 11:15  | Cari Ballesteros Martinez    | A global analysis on coastal migration due to sea-level rise              |
+| 10:25 – 10:50  | Trina  Ng             | Near-term sea-level projections for Southeast Asia                         |
+| 10:50 – 11:15  | Caridad Ballesteros    | A global analysis on coastal migration due to sea-level rise              |
 | 11:15 – 11:40  | Emmanuel Eresanya            | Association between AMOC weakening and dynamic sea level in CMIP6 & obs   |
 
 **☕ Coffee Break – 11:40 to 12:00**

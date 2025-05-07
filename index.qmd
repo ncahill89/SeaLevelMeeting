@@ -41,48 +41,59 @@ To help us plan for catering — and to receive updates —
 ## 📅 Day 1 – Conference Schedule  
 **(20-minute talks + 5-minute Q&A)**
 
-### 🔹 Morning Session  
+Here's your **revised schedule** with the first slot shortened to **10 minutes** and an **extra talk slot added before lunch**. The changes affect the **morning session only**, as requested:
+
+---
+
+### 🔹 Morning Session
+
 **Chair: Niamh Cahill**
 
-| Time           | Speaker                      | Talk Title                                                                 |
-|----------------|------------------------------|----------------------------------------------------------------------------|
-| 10:00 – 10:25  | Host/Chair                   | Welcome and Opening Remarks                                                |
-| 10:25 – 10:50  | Trina  Ng             | Near-term sea-level projections for Southeast Asia                         |
-| 10:50 – 11:15  | Caridad Ballesteros    | A global analysis on coastal migration due to sea-level rise              |
-| 11:15 – 11:40  | Emmanuel Eresanya            | Association between AMOC weakening and dynamic sea level in CMIP6 & obs   |
+| Time          | Speaker             | Talk Title                                                              |
+| ------------- | ------------------- | ----------------------------------------------------------------------- |
+| 10:00 – 10:10 | Host/Chair          | Welcome and Opening Remarks                                             |
+| 10:10 – 10:35 | Trina Ng            | Near-term sea-level projections for Southeast Asia                      |
+| 10:35 – 11:00 | Caridad Ballesteros | A global analysis on coastal migration due to sea-level rise            |
+| 11:00 – 11:25 | Emmanuel Eresanya   | Association between AMOC weakening and dynamic sea level in CMIP6 & obs |
 
-**☕ Coffee Break – 11:40 to 12:00**
+**☕ Coffee Break – 11:25 to 11:45**
 
-| Time           | Speaker               | Talk Title                                                                |
-|----------------|-----------------------|---------------------------------------------------------------------------|
-| 12:00 – 12:25  | Gerard McCarthy       | Regionalisation of sea level indicators and relevance for Ireland         |
-| 12:25 – 12:50  | Patrick McLoughlin    | Exploring Mean Sea Level Change Around Ireland                            |
-| 12:50 – 1:15   | Robin Edwards         | Wrestling sea level data from Irish mud: is it too mucky for modellers?   |
+| Time          | Speaker            | Talk Title                                                              |
+| ------------- | ------------------ | ----------------------------------------------------------------------- |
+| 11:45 – 12:10 | Gerard McCarthy    | Regionalisation of sea level indicators and relevance for Ireland       |
+| 12:10 – 12:35 | Patrick McLoughlin | Exploring Mean Sea Level Change Around Ireland                          |
+| 12:35 – 13:00  | Robin Edwards      | Wrestling sea level data from Irish mud: is it too mucky for modellers? |
+| 13:00 – 13:25   | Robert Devoy    | Past & Future Sea Level Changes in Cork Harbour: 'It's All for the Birds'  |
 
-### 🍽️ **Lunch Break – 1:15 to 2:15 PM**  
-Enjoy a break and refreshments with fellow attendees.
+
+
+### 🍽 ** Lunch Break - 13:25 to 14:10
 
 ---
 
-### 🔹 Afternoon Session  
+
+### 🔹 Afternoon Session
+
 **Chair: Gerard McCarthy**
 
-| Time           | Speaker            | Talk Title                                                                   |
-|----------------|--------------------|------------------------------------------------------------------------------|
-| 2:15 – 2:40    | Tido Semmler       | Sea level rise and storm surges around Ireland: Climate modelling at Met Éireann |
-| 2:40 – 3:05    | Fernando Mayer     | Bayesian Hierarchical Spatio-Temporal Model for Extreme Sea-Level Prediction |
-| 3:05 – 3:30    | Indiana Olbert     | Storm Éowyn: What Can Be Learned from Irish Tidal Gauges                     |
+| Time          | Speaker        | Talk Title                                                                       |
+| ------------- | -------------- | -------------------------------------------------------------------------------- |
+| 14:10 – 14:35 | Tido Semmler   | Sea level rise and storm surges around Ireland: Climate modelling at Met Éireann |
+| 14:35 – 15:00 | Fernando Mayer | Bayesian Hierarchical Spatio-Temporal Model for Extreme Sea-Level Prediction     |
+| 15:00 – 15:25 | Indiana Olbert | Storm Éowyn: What Can Be Learned from Irish Tidal Gauges                         |
 
-**☕ Coffee Break – 3:30 to 3:50**
+**☕ Coffee Break – 15:25 to 15:45**
 
-| Time           | Speaker            | Talk Title                                                                 |
-|----------------|--------------------|----------------------------------------------------------------------------|
-| 3:50 – 4:15    | Khurram Riaz       | Real-time Coastline Data via Remote Sensing and Citizen Science           |
-| 4:15 – 4:40    | Abbie Nugent         | Integrating upper beach morphodynamics into future storm risk: A storyline approach under sea level rise|
-| 4:40 – 5:05    | Darshana Jayakumari| Comparative analysis of extreme value methods on 80 years of rainfall data|
-
+| Time          | Speaker             | Talk Title                                                                                               |
+| ------------- | ------------------- | -------------------------------------------------------------------------------------------------------- |
+| 15:45 – 16:10 | Khurram Riaz        | Real-time Coastline Data via Remote Sensing and Citizen Science                                          |
+| 16:10 – 16:35 | Abbie Nugent        | Integrating upper beach morphodynamics into future storm risk: A storyline approach under sea level rise |
+| 16:35 – 17:00 | Darshana Jayakumari | Comparative analysis of extreme value methods on 80 years of rainfall data                               |
 
 ---
+
+
+
 
 ## 📅 Day 2 – Workshop Schedule
 

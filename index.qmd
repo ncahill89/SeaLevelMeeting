@@ -6,7 +6,7 @@ format:
     link-external-newwindow: true
 ---
 
-**Date: May 21st and 22nd**
+**Date: May 21st - 22nd**
 
 **Maynooth University | Hybrid Format**
 

@@ -6,10 +6,11 @@ format:
     link-external-newwindow: true
 ---
 
+**Date: May 21st and 22nd**
 
 **Maynooth University | Hybrid Format**
 
-This year’s Irish Sea Level Meeting brings together researchers to discuss recent advances in sea-level science and coastal impacts. Day 1 features a series of invited talks and presentations, while Day 2 provides hands-on, workshop-style sessions aimed at building tools and skills for sea-level research.
+This year’s Irish Sea Level Meeting brings together researchers to discuss recent advances in sea-level science and coastal impacts. Day 1 (May 21st) features a series of invited talks and presentations, while Day 2 (May 22nd) provides hands-on, workshop-style sessions aimed at building tools and skills for sea-level research.
 
 ---
 

@@ -14,4 +14,5 @@ Use the navigation bar or table of contents to browse abstracts by title.
 **Conference Dates:** May 21–22, 2025  
 **Location:** Maynooth University
 
-1: [Near-term sea-level projections for Southeast Asia](file:///Users/niamhcahill/Documents/GitHub/SeaLevelMeeting/docs/abstracts/abstract1.html)
+1: [Near-term sea-level projections for Southeast Asia](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract1.html)
+

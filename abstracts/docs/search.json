@@ -8,5 +8,25 @@
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>Book of Abstracts</span>"
     ]
+  },
+  {
+    "objectID": "abstract1.html",
+    "href": "abstract1.html",
+    "title": "Near-term sea-level projections for Southeast Asia",
+    "section": "",
+    "text": "Author: Trina Ng\nAffiliation: Nanyang Technological University\nAbstract:\nCoastal cities in Southeast Asia face heightened risks from relative sea-level (RSL) rise due to rapid urban expansion, limited observational coverage, and the coarse resolution of global projections. Vertical land motion (VLM) can influence RSL change by up to an order of magnitude, introducing substantial local variability to otherwise regionally uniform projections. This study presents a Bayesian hierarchical model to generate near-term RSL projections to 2050 using 96 annual tide gauge records across Southeast Asia. The model employs a change-point regression with an autoregressive time-series structure, enabling it to capture local, non-linear sea-level trajectories driven by both climatic variability and anthropogenic forcing. Of the 96 stations, 63 are located in urban coastal settings. Our results show that Bangkok and Manila are expected to experience the highest RSL rise among Southeast Asian cities, with median increases of 0.37 m (66% CI: 0.26–0.47 m) and 0.32 m (0.23–0.39 m), respectively, by 2050 relative to a 2020 baseline. Comparison with IPCC AR6 projections reveals broad agreement in overall trends, though our model systematically projects lower median trajectories, particularly under high-emissions scenarios. The discrepancy at some stations reflects the model’s ability to incorporate site-specific local changes, such as a significant reduction of groundwater extraction in Bangkok, which is not captured by the IPCC AR6 projections. This observation-driven framework provides a computationally efficient, empirically grounded complement to process-based projections.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Near-term sea-level projections for Southeast Asia</span>"
+    ]
+  },
+  {
+    "objectID": "abstract2.html",
+    "href": "abstract2.html",
+    "title": "A global analysis on coastal migration due to sea-level rise",
+    "section": "",
+    "text": "Author: Caridad Ballesteros\nAffiliation: The Tyndall Centre for Climate Change Research\nAbstract:\nSea-level rise (SLR) through the 21st century and beyond is inevitable, inundating coastal areas more frequently and displacing inhabitants unless there is appropriate adaptation. We investigate the impacts of SLR on coastal migration if plausible adaptation is considered. Adaptation is implemented based on the most economically robust adaptation option, by comparing protection versus retreat, with the latter option leading to migration. People living in unprotected coastal areas that are inundated frequently are assumed to migrate and the land is lost. Considering protection substantially reduces the number of migrants, as this can be a cost-efficient adaptation option in reducing the impacts of SLR especially in highly populated coastal areas. Coastal regions with less resources, and Small Island States, will suffer the most due to SLR unless adaptation, including planned migration, is well prepared in advance.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>A global analysis on coastal migration due to sea-level rise</span>"
+    ]
   }
 ]

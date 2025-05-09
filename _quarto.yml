@@ -9,7 +9,7 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Abstracts Book"
-        href: abstracts/index.qmd
+        href: abstracts/index.html
 
 format:
   html:

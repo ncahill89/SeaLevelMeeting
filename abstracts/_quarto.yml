@@ -1,0 +1,16 @@
+project:
+  type: book
+  output-dir: docs  # Output into the main site folder
+
+book:
+  title: "Book of Abstracts"
+  chapters:
+    - index.qmd
+    - abstract1.qmd
+    - abstract2.qmd
+    # Add more as needed
+
+format:
+  html:
+    toc: true
+    number-sections: false

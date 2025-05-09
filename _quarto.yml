@@ -3,7 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "Data Analysis"
+  title: "Sea Level Meeting"
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Abstracts Book"
+        href: abstracts/index.qmd
 
 format:
   html:

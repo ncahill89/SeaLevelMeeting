@@ -8,48 +8,49 @@ format:
 
 **Date: May 21st - 22nd**
 
-**Maynooth University | Hybrid Format**
+**Maynooth University \| Hybrid Format**
 
 This year’s Irish Sea Level Meeting brings together researchers to discuss recent advances in sea-level science and coastal impacts. Day 1 (May 21st) features a series of invited talks and presentations, while Day 2 (May 22nd) provides hands-on, workshop-style sessions aimed at building tools and skills for sea-level research.
 
----
+------------------------------------------------------------------------
 
 ## 📬 Contact
 
-**Niamh Cahill**  
-[niamh.cahill@mu.ie](mailto:niamh.cahill@mu.ie)
+**Niamh Cahill**\
+[niamh.cahill\@mu.ie](mailto:niamh.cahill@mu.ie)
 
----
+------------------------------------------------------------------------
 
 ## 🏫 Joining the Meeting
 
-**In-person**:  
+**In-person**:\
 School of Education, Room SE014, Maynooth University, Maynooth
 
-**Online**:  
+**Online**:\
 Click [here to join via Microsoft Teams](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Yzg1OTcwYTQtMmU3NC00NTUwLWEwYmMtODVmZWNhOGY1MzEy%40thread.v2/0?context=%7b%22Tid%22%3a%221454f5cc-bb35-4685-bbd9-8621fd8055c9%22%2c%22Oid%22%3a%2254578472-d8cf-40ab-943c-a7c0eb3f8ec8%22%7d)
 
 ### 📋 Registration
 
-To help us plan for catering — and to receive updates —  
-**please register your interest on [Eventbrite](https://8th-irish-sea-level-meeting.eventbrite.ie )** for either **online or in-person attendance**.
+To help us plan for catering — and to receive updates —\
+**please register your interest on [Eventbrite](https://8th-irish-sea-level-meeting.eventbrite.ie)** for either **online or in-person attendance**.
 
-> Registration is free.  
+> Registration is free.\
 > Lunch and coffee breaks will be provided for registered in-person participants.
 
----
+------------------------------------------------------------------------
 
-## 📅 Day 1 – Conference Schedule  
+## 📅 Day 1 – Conference Schedule
+
 **(20-minute talks + 5-minute Q&A)**
 
----
+------------------------------------------------------------------------
 
 ### 🔹 Morning Session
 
 **Chair: Niamh Cahill**
 
 | Time          | Speaker             | Talk Title                                                              |
-| ------------- | ------------------- | ----------------------------------------------------------------------- |
+|--------------|--------------|--------------------------------------------|
 | 10:00 – 10:10 | Host/Chair          | Welcome and Opening Remarks                                             |
 | 10:10 – 10:35 | Trina Ng            | Near-term sea-level projections for Southeast Asia                      |
 | 10:35 – 11:00 | Caridad Ballesteros | A global analysis on coastal migration due to sea-level rise            |
@@ -57,26 +58,23 @@ To help us plan for catering — and to receive updates —
 
 **☕ Coffee Break – 11:25 to 11:45**
 
-| Time          | Speaker            | Talk Title                                                              |
-| ------------- | ------------------ | ----------------------------------------------------------------------- |
-| 11:45 – 12:10 | Gerard McCarthy    | Regionalisation of sea level indicators and relevance for Ireland       |
-| 12:10 – 12:35 | Patrick McLoughlin | Exploring Mean Sea Level Change Around Ireland                          |
-| 12:35 – 13:00  | Robin Edwards      | Wrestling sea level data from Irish mud: is it too mucky for modellers? |
-| 13:00 – 13:25   | Robert Devoy    | Past & Future Sea Level Changes in Cork Harbour: 'It's All for the Birds'  |
-
-
+| Time          | Speaker            | Talk Title                                                                |
+|--------------|--------------|--------------------------------------------|
+| 11:45 – 12:10 | Gerard McCarthy    | Regionalisation of sea level indicators and relevance for Ireland         |
+| 12:10 – 12:35 | Patrick McLoughlin | Exploring Mean Sea Level Change Around Ireland                            |
+| 12:35 – 13:00 | Robin Edwards      | Wrestling sea level data from Irish mud: is it too mucky for modellers?   |
+| 13:00 – 13:25 | Robert Devoy       | Past & Future Sea Level Changes in Cork Harbour: 'It's All for the Birds' |
 
 ### 🍽 **Lunch Break - 13:25 to 14:10**
 
----
-
+------------------------------------------------------------------------
 
 ### 🔹 Afternoon Session
 
 **Chair: Gerard McCarthy**
 
 | Time          | Speaker        | Talk Title                                                                       |
-| ------------- | -------------- | -------------------------------------------------------------------------------- |
+|-------------|-------------|-----------------------------------------------|
 | 14:10 – 14:35 | Tido Semmler   | Sea level rise and storm surges around Ireland: Climate modelling at Met Éireann |
 | 14:35 – 15:00 | Fernando Mayer | Bayesian Hierarchical Spatio-Temporal Model for Extreme Sea-Level Prediction     |
 | 15:00 – 15:25 | Indiana Olbert | Storm Éowyn: What Can Be Learned from Irish Tidal Gauges                         |
@@ -84,28 +82,24 @@ To help us plan for catering — and to receive updates —
 **☕ Coffee Break – 15:25 to 15:45**
 
 | Time          | Speaker             | Talk Title                                                                                               |
-| ------------- | ------------------- | -------------------------------------------------------------------------------------------------------- |
+|------------|------------|-----------------------------------------------|
 | 15:45 – 16:10 | Khurram Riaz        | Real-time Coastline Data via Remote Sensing and Citizen Science                                          |
 | 16:10 – 16:35 | Abbie Nugent        | Integrating upper beach morphodynamics into future storm risk: A storyline approach under sea level rise |
 | 16:35 – 17:00 | Darshana Jayakumari | Comparative analysis of extreme value methods on 80 years of rainfall data                               |
 
----
-
-
-
+------------------------------------------------------------------------
 
 ## 📅 Day 2 – Workshop Schedule
 
 ### Hands-on Training Sessions
 
-| Time            | Workshop                   | Presenter            | Required Resources                                                                    |
-|-----------------|----------------------------|----------------------|----------------------------------------------------------------------------------------|
-| 10:00 – 10:30   | GLOSS Updates             | Glenn Nolan          | None                                                                                   |
-| 10:30 – 11:30   | Tides and Sea Level        | Patrick McLoughlin   | [WebPlotDigitizer](https://automeris.io/wpd/), Excel                                  |
-| 11:30 – 11:45   | ☕ Coffee Break             |                      |                                                                                        |
-| 11:45 – 1:15    | reslr: An R package for relative sea level modelling           | Maeve Upton          | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [reslr package](https://maeveupton.github.io/reslr/)|
-| 1:15 – 2:15     | 🍽️ Lunch Break             |                      |                                                                                        |
-| 2:15 – 3:45     | geslaR & Extremes Analysis in R | Fernando Mayer       | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [geslaR package](https://eireextremes.github.io/geslaR/)|
+| Time          | Workshop                                             | Presenter          | Required Resources                                                                                                                             |
+|-------------|-------------|-------------|----------------------------------|
+| 10:00 – 10:30 | GLOSS Updates                                        | Glenn Nolan        | None                                                                                                                                           |
+| 10:30 – 11:30 | Tides and Sea Level                                  | Patrick McLoughlin | [WebPlotDigitizer](https://automeris.io/wpd/), Excel                                                                                           |
+| 11:30 – 11:45 | ☕ Coffee Break                                      |                    |                                                                                                                                                |
+| 11:45 – 1:15  | reslr: An R package for relative sea level modelling | Maeve Upton        | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [reslr package](https://maeveupton.github.io/reslr/)     |
+| 1:15 – 2:15   | 🍽️ Lunch Break                                       |                    |                                                                                                                                                |
+| 2:15 – 3:45   | geslaR & Extremes Analysis in R                      | Fernando Mayer     | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [geslaR package](https://eireextremes.github.io/geslaR/) |
 
----
-
+------------------------------------------------------------------------

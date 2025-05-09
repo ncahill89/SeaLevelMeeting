@@ -1,0 +1,8 @@
+# A global analysis on coastal migration due to sea-level rise
+
+**Author:** Caridad Ballesteros
+
+**Affiliation:** The Tyndall Centre for Climate Change Research
+
+**Abstract:**\
+Sea-level rise (SLR) through the 21st century and beyond is inevitable, inundating coastal areas more frequently and displacing inhabitants unless there is appropriate adaptation. We investigate the impacts of SLR on coastal migration if plausible adaptation is considered. Adaptation is implemented based on the most economically robust adaptation option, by comparing protection versus retreat, with the latter option leading to migration. People living in unprotected coastal areas that are inundated frequently are assumed to migrate and the land is lost. Considering protection substantially reduces the number of migrants, as this can be a cost-efficient adaptation option in reducing the impacts of SLR especially in highly populated coastal areas. Coastal regions with less resources, and Small Island States, will suffer the most due to SLR unless adaptation, including planned migration, is well prepared in advance.

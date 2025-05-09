@@ -1,0 +1,8 @@
+# Near-term sea-level projections for Southeast Asia
+
+**Author:** Trina Ng
+
+**Affiliation:** Nanyang Technological University
+
+**Abstract:**\
+Coastal cities in Southeast Asia face heightened risks from relative sea-level (RSL) rise due to rapid urban expansion, limited observational coverage, and the coarse resolution of global projections. Vertical land motion (VLM) can influence RSL change by up to an order of magnitude, introducing substantial local variability to otherwise regionally uniform projections. This study presents a Bayesian hierarchical model to generate near-term RSL projections to 2050 using 96 annual tide gauge records across Southeast Asia. The model employs a change-point regression with an autoregressive time-series structure, enabling it to capture local, non-linear sea-level trajectories driven by both climatic variability and anthropogenic forcing. Of the 96 stations, 63 are located in urban coastal settings. Our results show that Bangkok and Manila are expected to experience the highest RSL rise among Southeast Asian cities, with median increases of 0.37 m (66% CI: 0.26–0.47 m) and 0.32 m (0.23–0.39 m), respectively, by 2050 relative to a 2020 baseline. Comparison with IPCC AR6 projections reveals broad agreement in overall trends, though our model systematically projects lower median trajectories, particularly under high-emissions scenarios. The discrepancy at some stations reflects the model’s ability to incorporate site-specific local changes, such as a significant reduction of groundwater extraction in Bangkok, which is not captured by the IPCC AR6 projections. This observation-driven framework provides a computationally efficient, empirically grounded complement to process-based projections.

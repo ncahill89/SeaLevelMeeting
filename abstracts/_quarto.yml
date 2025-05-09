@@ -3,11 +3,13 @@ project:
   output-dir: docs  # Output into the main site folder
 
 book:
-  title: "Book of Abstracts"
+  title: "Abstracts"
   chapters:
     - index.qmd
     - abstract1.qmd
     - abstract2.qmd
+    - abstract3.qmd
+    - abstract7.qmd
     # Add more as needed
 
 format:

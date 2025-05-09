@@ -8,7 +8,7 @@ website:
     left:
       - text: "Home"
         href: index.qmd
-      - text: "Abstracts Book"
+      - text: "Abstracts"
         href: abstracts/index.html
 
 format:

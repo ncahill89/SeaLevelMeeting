@@ -1,5 +1,5 @@
 ---
-title: "Book of Abstracts"
+title: "Abstracts"
 date: "May 2025"
 format:
   html: default
@@ -15,4 +15,11 @@ Use the navigation bar or table of contents to browse abstracts by title.
 **Location:** Maynooth University
 
 1: [Near-term sea-level projections for Southeast Asia](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract1.html)
+
+2: [A global analysis on coastal migration due to sea-level rise](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract2.html)
+
+3: [Sea level rise and storm surges around Ireland: Climate modelling at Met Éireann](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract3.html)
+
+7: [Past and Future Sea-level Changes in Cork Harbour Region: ‘It’s All For the Birds’!?](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract7.html)
+
 

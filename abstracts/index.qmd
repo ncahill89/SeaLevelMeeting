@@ -9,9 +9,9 @@ Welcome to the 8th Annual Sea Level Meeting Book of Abstracts. This collection i
 
 Use the links below to browse abstracts by title.
 
----
+------------------------------------------------------------------------
 
-**Conference Dates:** May 21–22, 2025  
+**Conference Dates:** May 21–22, 2025\
 **Location:** Maynooth University
 
 1: [Near-term sea-level projections for Southeast Asia](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract1.html)
@@ -22,4 +22,5 @@ Use the links below to browse abstracts by title.
 
 4: [Past and Future Sea-level Changes in Cork Harbour Region: ‘It’s All For the Birds’!?](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract7.html)
 
+5: [Bayesian Hierarchical Spatio-Temporal Model for Extreme Sea-Level Prediction](https://ncahill89.github.io/SeaLevelMeeting/abstracts/abstract9.html)
 

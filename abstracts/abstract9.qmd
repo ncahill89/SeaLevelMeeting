@@ -1,0 +1,39 @@
+# Bayesian Hierarchical Spatio-Temporal Model for Extreme Sea-Level Prediction 
+
+**Author:** Fernando Mayer
+
+**Affiliation** Maynooth University
+
+**Abstract:**
+Rising sea levels pose a significant threat to coastal cities,
+increasing the risk of extreme sea levels, flooding, and coastal
+erosion. Understanding the drivers of extreme sea levels, particularly
+those caused by storm surges, is crucial for flood risk assessment and
+management. This study develops a Bayesian hierarchical spatio-temporal
+model to estimate extreme sea levels at both gauged and ungauged
+locations in Ireland, using data from the Global Extreme Sea Level
+Analysis (GESLA) database, which includes tide-gauge records from
+Ireland and the West coast of Great Britain (GBR). The Generalised
+Extreme Value (GEV) distribution is used to model annual maxima,
+incorporating spatial dependence through a Matérn covariance function
+and temporal dependence via a first-order autoregressive (AR1) process.
+The modelling framework ensures a flexible representation of spatial
+correlation structures, capturing complex dependencies along the
+coastline using the Stochastic Partial Differential Equation (SPDE)
+approach with a barrier model. Model assessment is conducted using
+multiple performance criteria, including Deviance Information Criterion
+(DIC), Watanabe-Akaike Information Criterion (WAIC), and Conditional
+Predictive Ordinates (CPO), with a particular focus on predictive power.
+The results highlight the importance of spatio-temporal interactions in
+capturing extreme sea-level variability, with models incorporating both
+spatial structure and temporal trends providing improved predictive
+performance. The findings indicate a statistically significant
+increasing trend in extreme sea levels, with higher-risk areas
+identified along Ireland’s East coast, where return level estimates
+suggest an increased probability of extreme sea-level exceedances in the
+coming decades. By integrating spatial and temporal dependencies within
+a Bayesian framework, this study provides a realistic representation of
+extreme sea-level propagation along the coast, enhancing flood risk
+assessments and coastal management strategies. These insights are
+critical for policymakers and stakeholders in developing informed
+adaptation strategies for rising sea levels.

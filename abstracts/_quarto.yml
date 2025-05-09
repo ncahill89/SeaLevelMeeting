@@ -10,6 +10,7 @@ book:
     - abstract2.qmd
     - abstract3.qmd
     - abstract7.qmd
+    - abstract9.qmd
     # Add more as needed
 
 format:

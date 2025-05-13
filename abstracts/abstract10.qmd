@@ -1,0 +1,9 @@
+# Storm Éowyn: What Can Be Learned from Irish Tidal Gauges 
+
+**Author:** Indiana Olbert
+
+**Affiliation** University of Galway
+
+**Abstract:**
+Storm Éowyn of January 2025 is a severe weather event, mostly remembered for its extremely strong wind and short-term rainfall, causing significant devastation, disruption, and property damage throughout Ireland. While local flooding was also reported in some areas, it is generally considered of a much lesser importance in terms of its impact. In this study we examine available data from tidal gauges located along the Irish coastline to access impact of the storm Éowyn in terms of potential flooding of vulnerable areas. It was found that at some locations, notably Galway Port and Limerick Dock, the storm surge, estimated as the difference between measured water level
+and water level due regular tidal cycle at the same location and time, reaches value of 2.6 and 3.0 meters respectively, the highest on record within the available data. Lesser, but comparable values were found in other locations. So we were incredibly lucky that the storm happened during neap tide, when the tides are naturally the weakest, and, furthermore, the maximum wind and the sea level surge caused by the storm coincide with the time when tide was in the receding phase, thus tide acting against the surge and mitigating its impact.

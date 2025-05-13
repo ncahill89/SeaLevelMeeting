@@ -1,0 +1,13 @@
+# Integrating upper beach morphodynamics into future storm risk: A storyline approach under sea level rise
+
+**Author:** Abbie Nugent
+
+**Affiliation:** Trinity College Dublin 
+
+**Abstract:**
+Dublin Bay is experiencing an accelerated rate of sea level rise (Nejad et al., 2022). This trend significantly amplifies the risk of storm-induced coastal hazards for the urban shoreline of Dublin. North Bull Island, a dynamic sandy barrier island located within the bay, plays a critical role in buffering the coastline from these hazards. Despite its importance as a “natural” coastal protection, the potential impact of future storms on the landform under sea level rise scenarios has not been explored. 
+This study presents a novel application of a climate storyline approach to investigate future storm impacts on Dollymount Strand, North Bull Island. Using a calibrated 1D XBeach storm impact model, we evaluate a range of plausible future conditions, incorporating sea level rise projections, storm event characteristics, and upper beach morphological states, and their influence on storm impacts at three locations. By integrating morphological variability, this method provides a more comprehensive assessment of potential storm impacts than storyline approaches that take no consideration of geomorphological evolution. Our results emphasize the limitations of conventional static inundation models that don’t consider geomorphological processes that can have a direct impact on future climate risks at the coast.
+
+
+Nejad, A. S., Parnell, A. C., Greene, A., Thorne, P., Kelleher, B. P., Devoy, R. J. N., McCarthy, G., 2022. A newly reconciled dataset for identifying sea level rise and variability in Dublin Bay. Ocean Science, 18, 511-522.
+

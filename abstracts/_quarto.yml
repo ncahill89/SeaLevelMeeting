@@ -11,6 +11,9 @@ book:
     - abstract3.qmd
     - abstract7.qmd
     - abstract9.qmd
+    - abstract10.qmd
+    - abstract12.qmd
+    - abstract13.qmd
     # Add more as needed
 
 format:

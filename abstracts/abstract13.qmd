@@ -1,0 +1,9 @@
+# Evaluating the sensitivity of threshold selection in Extreme value methods
+
+**Author:**  Darshana Jayakumari 
+
+**Affiliation** Met Éireann
+
+**Abstract:**
+A recent report published by Met Éireann has highlighted an increased risk of extreme precipitation events across Ireland in future years, which can pose a threat to life and property. Having a comprehensive understanding of the probability distribution of extreme rainfall in Ireland is key to obtaining accurate predictions of such events. It is also important to take into account spatial dependencies when producing these predictions. Extreme value theory is a statistical framework that can be utilised in modelling extreme events. This methodology has a wide variety of applications, including finance, healthcare, telecommunications, and climate. Generalised Extreme Value (GEV) distributions are continuous probability distributions included useful to model extreme values. Depending on the behaviour of the tails of the sample distribution, the GEV distribution can be represented by Fréchet, Weibull or Gumbel distributions. An alternative way of modelling extremes is by using a threshold to capture the variability of exceedences using Generalised Pareto Distribution(GPD). In this talk we intend to examine the sensitivity of threshold selection by modelling 80 years of rainfall data from 10 weather stations across Ireland using GEV and GPD analysis. We also looked at the 10-year and 100-year return periods alongside 95% confidence intervals for each site. Preliminary results from the study show that subjective selection of thresholds would lead to wider confidence intervals and sensitive estimates. 
+                                                  

@@ -104,8 +104,8 @@ To help us plan for catering — and to receive updates —\
 | 10:00 – 10:30 | GLOSS Updates                                        | Glenn Nolan        | None                                                                                                                                           |
 | 10:30 – 11:30 | Tides and Sea Level                                  | Patrick McLoughlin | [WebPlotDigitizer](https://automeris.io/wpd/), Excel                                                                                           |
 | 11:30 – 11:45 | ☕ Coffee Break                                      |                    |                                                                                                                                                |
-| 11:45 – 1:15  | reslr: An R package for relative sea level modelling | Maeve Upton        | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [reslr package](https://maeveupton.github.io/reslr/)     |
-| 1:15 – 2:15   | 🍽️ Lunch Break                                       |                    |                                                                                                                                                |
-| 2:15 – 3:45   | geslaR & Extremes Analysis in R                      | Fernando Mayer     | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [geslaR package](https://eireextremes.github.io/geslaR/) |
+| 11:45 – 13:15  | reslr: An R package for relative sea level modelling | Maeve Upton        | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [reslr package](https://maeveupton.github.io/reslr/)     |
+| 13:15 – 14:15   | 🍽️ Lunch Break                                       |                    |                                                                                                                                                |
+| 14:15 – 15:45   | geslaR & Extremes Analysis in R                      | Fernando Mayer     | [R](https://www.r-project.org), [RStudio](https://posit.co/download/rstudio-desktop/) [geslaR package](https://eireextremes.github.io/geslaR/) |
 
 ------------------------------------------------------------------------

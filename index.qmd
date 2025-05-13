@@ -41,17 +41,18 @@ To help us plan for catering — and to receive updates —\
 
 ## 📅 Day 1 – Conference Schedule
 
-**(20-minute talks + 5-minute Q&A)**
+**09:30 – 10:00: Informal Welcome, Morning Coffee & Chats**              
 
 ------------------------------------------------------------------------
 
 ### 🔹 Morning Session
 
+**(20-minute talks + 5-minute Q&A)**
+
 **Chair: Niamh Cahill**
 
 | Time          | Speaker             | Talk Title                                                              |
 | ------------- | ------------------- | ----------------------------------------------------------------------- |
-| 09:30 – 10:00 | Informal Welcome    | Morning Coffee & Chats                |
 | 10:00 – 10:10 | Host/Chair          | Welcome and Opening Remarks                                             |
 | 10:10 – 10:35 | Trina Ng            | Near-term sea-level projections for Southeast Asia                      |
 | 10:35 – 11:00 | Caridad Ballesteros | A global analysis on coastal migration due to sea-level rise            |
@@ -91,6 +92,10 @@ To help us plan for catering — and to receive updates —\
 ------------------------------------------------------------------------
 
 ## 📅 Day 2 – Workshop Schedule
+
+**09:30 – 10:00: Informal Welcome, Morning Coffee & Chats**              
+
+------------------------------------------------------------------------
 
 ### Hands-on Training Sessions
 

@@ -85,7 +85,7 @@ To help us plan for catering — and to receive updates —\
 | ------------- | -------------- | -------------------------------------------------------------------------------- | --------- |
 | 14:10 – 14:35 | Tido Semmler   | Sea level rise and storm surges around Ireland: Climate modelling at Met Éireann | In-Person |
 | 14:35 – 15:00 | Fernando Mayer | Bayesian Hierarchical Spatio-Temporal Model for Extreme Sea-Level Prediction     | In-person    |
-| 15:00 – 15:25 | Indiana Olbert | Storm Éowyn: What Can Be Learned from Irish Tidal Gauges                         | In-Person |
+| 15:00 – 15:25 | Alexander Shchepetkin | Storm Éowyn: What Can Be Learned from Irish Tidal Gauges                         | In-Person |
 
 **☕ Coffee Break – 15:25 to 15:45**
 

@@ -106,6 +106,9 @@ To help us plan for catering — and to receive updates —\
 
 ### Hands-on Training Sessions
 
+**Chair: Niamh Cahill**
+
+
 | Time          | Workshop                                             | Presenter          | Required Resources                                                                                                                             |
 |-------------|-------------|-------------|----------------------------------|
 | 10:00 – 10:30 | GLOSS Updates                                        | Glenn Nolan        | None                                                                                                                                           |
